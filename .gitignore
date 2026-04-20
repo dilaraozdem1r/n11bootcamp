@@ -1,0 +1,13 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+.kotlin
+.idea/
+*.iml
+target/
+
+
+
+### Mac OS ###
+.DS_Store
