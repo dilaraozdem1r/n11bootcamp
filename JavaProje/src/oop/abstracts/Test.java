@@ -6,7 +6,7 @@ public class Test {
         k.hareketEt();
 
         GenelMudur gm = new GenelMudur();
-        gm.ad = "Hakan";bak olmuyor
+        gm.ad = "Hakan";
         gm.soyad = "Yılmaz";
         gm.departman = "Genel Müdür";
 
